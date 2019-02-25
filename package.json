@@ -1,0 +1,22 @@
+{
+  "name": "robot-video-maker",
+  "version": "1.0.0",
+  "description": "Projeto open source para criar videos de forma autônoma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermeferrari/robot-video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermeferrari/robot-video-maker/issues"
+  },
+  "homepage": "https://github.com/guilhermeferrari/robot-video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
