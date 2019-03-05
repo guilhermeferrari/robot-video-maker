@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/guilhermeferrari/robot-video-maker#readme",
   "dependencies": {
+    "google-trends-api": "^4.9.0",
     "readline-sync": "^1.4.9"
   }
 }

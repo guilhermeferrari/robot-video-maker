@@ -1,4 +1,5 @@
 const readline = require("readline-sync");
+const trends = require("./trends");
 
 function start() {
 	const content = {};
@@ -24,4 +25,5 @@ function start() {
 	console.log(content);
 }
 
-start();
+//start();
+//trends.gTrends();
