@@ -9,8 +9,6 @@ function robot() {
 	content.searchTerm = askAndReturnSearchTerm();
 	content.prefix = askAndReturnPrefix();
 	state.save(content);
-	// content.searchTerm = "Michael Jackson";
-	// content.prefix = 1;
 
 	function askAndReturnSearchTerm() {
 		return readline.question("Type a Wikipedia search term: ");
